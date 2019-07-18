@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidUITestingTutorials</string>
+    <string name="lbl_login">Login</string>
+    <string name="quote_login">Login Page</string>
+    <string name="lbl_enteremail">Enter Email</string>
+    <string name="lbl_enterpassword">Enter Password</string>
+    <string name="lbl_validation_success">Validation Success</string>
+    <string name="lbl_validation_failed">Validation Failed</string>
 </resources>
