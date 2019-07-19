@@ -33,7 +33,7 @@
     <EditText
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:inputType="textPassword"
+            android:inputType="textEmailAddress"
             android:ems="10"
             android:id="@+id/et_email"
             app:layout_constraintStart_toStartOf="@+id/et_password"

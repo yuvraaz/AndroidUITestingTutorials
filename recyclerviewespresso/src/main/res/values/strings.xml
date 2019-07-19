@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recyclerviewespresso</string>
+    <string name="lbl_person_name">Person Name</string>
+    <string name="lbl_phone_number">Phone Number</string>
+</resources>

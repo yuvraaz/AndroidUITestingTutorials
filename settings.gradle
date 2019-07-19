@@ -1,1 +1,1 @@
-include ':app', ':testingcomplexui', ':mockitotestingandroid'
+include ':app', ':testingcomplexui', ':mockitotestingandroid', ':recyclerviewespresso'
